@@ -4,5 +4,31 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 关于我
+
+你好！我是 **寒行晚**，也可以叫我 **hanxingwan**。我永远是最帅的呢哼哼！😄
+
+### 个人简介
+
+我是一名热爱技术的开发者，目前在 Gitee 平台上活跃。我喜欢探索新的技术，专注于代码创作和技术分享。
+
+### 技术兴趣
+
+我在开源社区中积极参与，目前拥有：
+- 5 个公开仓库
+- 关注了 6 个项目
+- 正在向 2 位优秀的开发者学习
+
+### 联系方式
+
+如果你对我的项目感兴趣，或者想要技术交流，欢迎通过以下方式联系我：
+
+- **邮箱**: 13232183076@163.com
+- **Gitee**: [hanxingwan](https://gitee.com/hanxingwan)
+
+### 了解更多
+
+在这里，我会分享我的技术心得、项目经验和学习笔记。希望能够与更多志同道合的朋友交流学习！
+
+> 保持热情，持续学习，努力成为更好的自己！
+{: .prompt-success }
